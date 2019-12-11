@@ -1,5 +1,7 @@
 ## GraphQL Query Tutorial (MDX-Deck Presentation Deck)
 
+Github Pages: http://worace-slides.github.io/working_with_graphql_queries
+
 https://github.com/jxnblk/mdx-deck
 
 https://github.com/jxnblk/mdx-deck/blob/master/docs/exporting.md
